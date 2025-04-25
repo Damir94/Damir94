@@ -9,6 +9,10 @@ I'm a DevOps & Cloud Engineer with 4 years of experience helping teams build, de
 
 Check out my projects and feel free to connect—I'm always open to collaborating on cloud-native and DevOps solutions!
 
+![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-yellow?logo=amazon-aws)
+
+
 Knowledgeable in:
 ☁️ AWS
 💠 Git/GitHub
