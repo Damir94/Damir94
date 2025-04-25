@@ -9,3 +9,14 @@ I'm a DevOps & Cloud Engineer with 4 years of experience helping teams build, de
 
 Check out my projects and feel free to connect—I'm always open to collaborating on cloud-native and DevOps solutions!
 
+Knowledgeable in:
+☁️ AWS
+💠 Git/GitHub
+🐧 Linux, BASH
+🐍 Python
+🏗 Terraform
+∞ CI/CD pipelines
+🐳 Docker
+JIRA/Confluence
+Ansible
+Kubernetes
