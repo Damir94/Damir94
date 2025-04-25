@@ -18,6 +18,6 @@ Knowledgeable in:
 🏗 Terraform
 ∞ CI/CD pipelines
 🐳 Docker
-JIRA/Confluence
+JIRA
 Ansible
 Kubernetes
