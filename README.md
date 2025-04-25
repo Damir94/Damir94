@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hey there 👋
 
-I'm a Cloud Engineer with 4 years of hands-on experience designing, building, and maintaining cloud infrastructure. I’m passionate about automating workflows, improving system reliability, and building scalable solutions in the cloud.
+I'm a DevOps & Cloud Engineer with 4 years of experience helping teams build, deploy, and scale applications in the cloud. I specialize in automating infrastructure and streamlining CI/CD pipelines to enable faster, more reliable software delivery.
 
-🔧 Skilled in **AWS**, **Terraform**, **Docker**, **Kubernetes**, and **CI/CD pipelines**  
-📜 Certified AWS **Cloud Practitioner** and **Solutions Architect – Associate**  
-💡 Always learning—currently diving deeper into **cloud security** and **DevOps best practices**
+🚀 I work with tools like **AWS**, **Terraform**, **Docker**, **Kubernetes**, **Ansible**, and **Jenkins**  
+☁️ Certified AWS **Cloud Practitioner** and **Solutions Architect – Associate**  
+🔄 Passionate about **Infrastructure as Code**, **monitoring**, and **cloud security**  
+📈 Always learning and exploring ways to optimize performance and reduce complexity
 
-Feel free to check out my projects, and let’s connect if you share a love for the cloud ☁️
+Check out my projects and feel free to connect—I'm always open to collaborating on cloud-native and DevOps solutions!
+
