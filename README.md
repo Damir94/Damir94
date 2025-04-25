@@ -9,9 +9,6 @@ I'm a DevOps & Cloud Engineer with 4 years of experience helping teams build, de
 
 Check out my projects and feel free to connect—I'm always open to collaborating on cloud-native and DevOps solutions!
 
-![AWS Certified]()
-![AWS Solutions Architect](https://www.credly.com/badges/ddbe55b2-e806-4f2f-b863-6720a954e355/linked_in?t=srfenx)
-
 
 Knowledgeable in:
 ☁️ AWS
