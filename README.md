@@ -21,3 +21,5 @@ Knowledgeable in:
 JIRA
 Ansible
 Kubernetes
+
+Below are some of my recent projects:
