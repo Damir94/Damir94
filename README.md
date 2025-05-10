@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm a DevOps & Cloud Engineer with 4 years of experience helping teams build, deploy, and scale applications in the cloud. I specialize in automating infrastructure and streamlining CI/CD pipelines to enable faster, more reliable software delivery.
+I'm a DevOps & Cloud Engineer with 5 years of experience helping teams build, deploy, and scale applications in the cloud. I specialize in automating infrastructure and streamlining CI/CD pipelines to enable faster, more reliable software delivery.
 
 🚀 I work with tools like **AWS**, **Terraform**, **Docker**, **Kubernetes**, **Ansible**, and **Jenkins**  
 ☁️ Certified AWS **Cloud Practitioner** and **Solutions Architect – Associate**  
